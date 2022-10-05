@@ -4,7 +4,7 @@ Olá dev, seja bem-vindo(a), obrigado por seu interesse em participar do nosso p
 
 O intuito desse desafio é avaliar o nível do seu conhecimento técnico. O desafio consiste no desenvolvimento de uma API Rest utilizando preferencialmente as tecnologias Java/Kotlin e Spring Boot. Com relação ao banco de dados, fica a critério do candidato utilizar um de sua preferência (SQL ou NoSQL).
 
-Ao término do desafio, o candidato deverá entrar em contato com o funcionário do RH para enviar o link do repositório no GitHub. Lembre-se de deixar o repositório como público.
+Ao término do desafio, encaminhe para o e-mail do recrutador (people@tds.company) o link do seu GitHub para avaliação. Lembre-se de deixar o repositório como público.
 
 <h2> Descrição do desafio </h2>
 
