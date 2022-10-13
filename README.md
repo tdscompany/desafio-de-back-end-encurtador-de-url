@@ -14,7 +14,7 @@ Você recebeu uma solicitação para desenvolver uma aplicação backend para en
 
 - `Cadastrar URL`: Realizar o cadastro de uma URL, é necessário retornar a URL encurtada;
 - `Acessar URL encurtada`: Ao acessar a URL encurtada, o usuário deverá ser redirecionado para a URL cadastrada;
-- `Visualizando estatísticas`: Exibir estatisticas de acesso(s) da url(s) encurtada(s) (acessos por dia e geral)
+- `Visualizando estatísticas`: Exibir estatisticas de acesso(s) da url(s) encurtada(s) (média de acessos por dia e total geral)
 
 <h5> Observações: </h5> 
 
